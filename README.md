@@ -23,7 +23,7 @@ Press *backspace* to toggle between the 3D planet zoom-in and the illustrator's 
 Chris Miller, Daxit Agarwal, Thomas Huneycutt (COD), Bethany Cantrell (COD), Tierra White (COD), and Michael Pfeffer (COD)
 
 # Gitlab Repository: 
-https://gitlab.com/ncsu/interactive_museum_exhibit
+https://gitlab.com/ncsu/interactive_museum_exhibit  
 This project was version controlled through gitlab. Please follow the above link to see project history. Choose the develop or realsense branch.
 
 # Future Work
