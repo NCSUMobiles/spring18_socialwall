@@ -26,6 +26,9 @@ Chris Miller, Daxit Agarwal, Thomas Huneycutt (COD), Bethany Cantrell (COD), Tie
 https://gitlab.com/ncsu/interactive_museum_exhibit  
 This project was version controlled through gitlab. Please follow the above link to see project history. Choose the develop or realsense branch.
 
+# Realsense Technology:
+The project includes a realsense sensor build under the RealsenseDevelopment folder. This build includes an executable that requires the Intel Realsense 400 series sensor to run. There is also a unitypackage that can be opened with the 2018 version of Unity to explore (but not run) the realsense project. For an unpackaged version of the realsense project, please see the realsense branch on the Gitlab repository above.
+
 # Future Work
 * Improve the motion tracking to be more stable and support more skeletons
 * Along with motion tracking, add star trails behind hands and feet.
